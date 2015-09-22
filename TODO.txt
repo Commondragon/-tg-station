@@ -2,6 +2,7 @@
 
 Even this list is a work in progress, but this is generally shit we at the bus all want to get done. If you think you can help with anything, let us know on IRC.
 
+**OLD TODO LIST**
 1. Update abductors.
 2. Remove goonchem while keeping chemical patches and some other cool shit maybe.
 3. Remove tablecrafting.
@@ -11,4 +12,15 @@ Even this list is a work in progress, but this is generally shit we at the bus a
 7. VOLUME CONTROL OPTIONS
 8. Polish
 
+
+**NEW TODO LIST**
+
+1. Fix Up Double agent >turbo Probability and required player amount fixed
+2. Make decisions on how we want to procceed with Chemistry
+3. Implement Antag Popup windows
+4. Fix Buttbots >turbo "butt" fixed
+5. Fix Meeseeks >turbo damage should now be done. Please god be done
+6. Fix Dakis, or remove if it cant be redeemed
+7. Fix Buttbots so they stick to saying butt >Turbo "butt" fixed Slurp sound removed
+8. Fix the retarded way ghosting works.
 */
